@@ -6,3 +6,5 @@ The purpose of this project is to constuct classifiers that predict the letter o
 
 #### Dataset Information
 The labeled data set contains 10440 observations, 3136 variables and labels to each observation. The value of the variables are either 0 or 1 based on the pixel information of the 56x56 image, '0' denoting empty pixels and '1' denoting shaded pixels. The unlabeled data set contains pixel information on 2000 observations without the labels on them. 
+
+##### The details about the project is in _Report.pdf_
