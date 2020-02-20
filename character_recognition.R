@@ -14,7 +14,7 @@
   #if(!require(FNN))install.packages("FNN")
  
 ##Read the training dataset
-letters.labeled <- read.csv("letters.labeled.csv", header = T)
+letters.labeled <- read.csv("letters_labeled.csv", header = T)
 
 #Observe the part of the dataset
 head(letters.labeled,10)[,1:15]
